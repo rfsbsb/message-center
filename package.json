@@ -6,10 +6,6 @@
     "type": "git",
     "url": "https://github.com/mateu-aguilo-bosch/message-center.git"
   },
-  "scripts": {
-    "postinstall": "bower install",
-    "test": "make test"
-  },
   "keywords": [ "angular", "js", "messages", "alert", "bootstrap" ],
   "author": "Mateu Aguiló Bosch <mateu.aguilo.bosch@gmail.com>",
   "readmeFilename": "README.md",
